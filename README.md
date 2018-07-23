@@ -27,7 +27,7 @@ Anaconda is a software application that provides the user with the ability to cr
 ### Working on Windows:
 * To be completed
 
-### Working on OSX 
+### Working on OSX
 * To be completed
 
 ### Working on GNU/Linux
@@ -36,7 +36,10 @@ Anaconda is a software application that provides the user with the ability to cr
 ### Data Source
 * Data sourced from Gebco [here](https://www.gebco.net/data_and_products/gridded_bathymetry_data/)
 
-#TODO:
-* add a CSV export using Pandas for the profile data
+## TODO:
 * add a save to netcdf file using xarray
 * add a netcdf to GTiff export using rasterio.
+* add seaborn palette change
+* interplote a dem profile between to arbitary points that is not aligned with the grid
+* interpolate a dem profile along an input linestring geometry e.g. a boat transect from a geoJSON
+* if the file is too big for memory use dask
