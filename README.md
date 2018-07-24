@@ -36,7 +36,7 @@ Anaconda is a software application that provides the user with the ability to cr
 ### Data Source
 * Data sourced from Gebco [here](https://www.gebco.net/data_and_products/gridded_bathymetry_data/)
 
-## TODO:
+## ToDo:
 * add a save to netcdf file using xarray
 * add a netcdf to GTiff export using rasterio.
 * add seaborn palette change
