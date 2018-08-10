@@ -43,3 +43,4 @@ Anaconda is a software application that provides the user with the ability to cr
 * interplote a dem profile between to arbitary points that is not aligned with the grid
 * interpolate a dem profile along an input linestring geometry e.g. a boat transect from a geoJSON
 * if the file is too big for memory use dask
+* migrate the dataset to a multi-variable, multi-timestep netcdf e.g. model output from NOAA Wave Watch 3.
