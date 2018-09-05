@@ -1,0 +1,9 @@
+name: xr-env
+dependencies:
+- python=3
+- xarray
+- jupyter notebook
+- matplotlib
+- numpy
+- seaborn
+- pandas
